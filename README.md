@@ -1,4 +1,4 @@
-# shellbys-text-editor
+# J.A.T.E.
 
 ## Description
 
