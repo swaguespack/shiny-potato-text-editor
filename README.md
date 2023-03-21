@@ -22,10 +22,9 @@ Run `npm install` in the command line to install necessary dependencies.
 To use the application from the command line (after installing dependencies):
 
 1. Open the root directory of the repository in your terminal.
-2. Bundle the front-end code by entering `npm run build` in the command line.
-3. Start the server by entering `npm run start` in the command line.
-4. Go to the port on your local host (http//:localhost:3000).
-5. Click the "Install" button.
+2. Start the server by entering `npm run start` in the command line.
+3. Go to the port on your local host (http//:localhost:3000).
+4. Click the "Install" button.
 
 To use the live application on Heroku, [click here](https://shellbys-text-editor.herokuapp.com/).
 
